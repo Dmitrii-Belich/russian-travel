@@ -1,0 +1,12 @@
+.header__lang_status_unselected {
+  text-decoration: none;
+  margin-left: 18px;
+}
+
+@media screen and (max-width: 375px) {
+  .header__lang_status_selected {
+    margin-left: 16px;
+  }
+}
+
+

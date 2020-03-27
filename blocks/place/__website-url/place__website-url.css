@@ -1,7 +1,8 @@
 .place__website-url {
   font-size: 18px;
   line-height: 30px;
-  text-decoration-line: underline;
+  text-decoration: none;
+  border-bottom: white 1px solid;
   margin: 0;
   color: white;
 }
