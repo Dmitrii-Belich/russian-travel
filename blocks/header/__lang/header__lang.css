@@ -1,0 +1,16 @@
+@import url(./_status/header__lang_status_selected.css);
+
+.header__lang {
+  font-size: 1.5em;
+  line-height: 1.5em;
+  margin-top: 17px;
+  margin-bottom: 0;
+}
+
+@media screen and (max-width: 375px) {
+  .header__lang {
+    font-size: 18px;
+    line-height: 96.82%;
+  }
+}
+
