@@ -11,7 +11,7 @@
   margin-bottom: 72px;
   display: grid;
   grid-template-columns: 460px 1fr;
-  grid-template-rows: minmax(69px, 134px) 1fr;
+  grid-template-rows: minmax(69, 134) 1fr;
   grid-column-gap: 40px;
   grid-row-gap: 60px;
   grid-template-areas:
