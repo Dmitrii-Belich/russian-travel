@@ -7,27 +7,22 @@
   margin: 0 auto 48px;
 }
 
-@media screen and (max-width: 768px) {
+@media screen and (max-width: 800px) {
   .cover__subtitle {
    max-width: 360px;
+   margin: 0 auto 40px;
   }
 }
 
-@media screen and (max-width: 425px) {
+@media screen and (max-width: 550px) {
   .cover__subtitle {
-    margin: 0 auto 40px;
-    font-weight: normal;
     font-size: 14px;
     line-height: 17px;
-  }
-}
-
-@media screen and (max-width: 375px) {
-  .cover__subtitle {
     max-width: 275px;
     margin: 0 auto 24px;
   }
 }
+
 
 
 
