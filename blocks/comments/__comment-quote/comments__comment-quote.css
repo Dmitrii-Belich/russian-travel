@@ -6,7 +6,7 @@
   margin: 42px 0 24px;
 }
 
-@media screen and (max-width: 768px) {
+@media screen and (max-width: 997px) {
   .comments__comment-quote {
     font-size: 16px;
     line-height: 23px;

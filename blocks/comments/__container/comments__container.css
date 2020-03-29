@@ -9,7 +9,7 @@
 }
 
 
-@media screen and (max-width: 768px) {
+@media screen and (max-width: 997px) {
   .comments__container {
     grid-template-columns: 382px;
     grid-gap: 48px;

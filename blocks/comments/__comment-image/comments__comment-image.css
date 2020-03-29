@@ -3,7 +3,7 @@
   max-width: 97px;
 }
 
-@media screen and (max-width: 768px) {
+@media screen and (max-width: 997px) {
   .comments__comment-image {
     order: -2;
   }
