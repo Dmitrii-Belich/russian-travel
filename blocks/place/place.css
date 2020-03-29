@@ -42,7 +42,7 @@
 @media screen and (max-width: 680px) {
   .place {
     grid-template-columns: 100%;
-    grid-template-rows: 40px 375px 1fr;
+    grid-template-rows: 40px fit-content 1fr;
     grid-template-areas:
     "title"
     "image"
@@ -52,8 +52,3 @@
   }
 }
 
-@media screen and (max-width: 320px) {
-  .place {
-    grid-template-rows: 40px 320px 1fr;
-  }
-}

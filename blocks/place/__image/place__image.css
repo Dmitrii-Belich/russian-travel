@@ -1,17 +1,5 @@
 .place__image {
   max-width: 100%;
   grid-area: image;
-}
-
-
-@media screen and (max-width: 680px) {
-  .place__image {
-    max-width: 375px;
-  }
-}
-
-@media screen and (max-width: 375px) {
-  .place__image {
-    max-width: 100%;
-  }
+  justify-self: center;
 }
